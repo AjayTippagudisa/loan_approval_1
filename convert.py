@@ -11,4 +11,3 @@ class Numerical:
 gt = Numerical()
 print(gt.converted('Gender','Male'))
 
-
